@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bofiliamz
+- 👋 Hi, I’m @Fidel
 - 👀 I’m interested in learning new languages
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects that can improve my java skills
